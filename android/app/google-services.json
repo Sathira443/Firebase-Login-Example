@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "701517480193",
+    "firebase_url": "https://healthspike-86c82-default-rtdb.firebaseio.com",
+    "project_id": "healthspike-86c82",
+    "storage_bucket": "healthspike-86c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701517480193:android:a74d1c65149aa8f5cedb00",
+        "android_client_info": {
+          "package_name": "com.example.firebase_user_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgQiyJtGYv96ghv9J0k4PmmWHXLF1IxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
